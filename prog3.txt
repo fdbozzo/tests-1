@@ -1,0 +1,2 @@
+* Prog3.txt creado en rama1
+* luego lo crearé en rama 2 a ver qué ocurre al mergearlos
