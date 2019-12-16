@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 * Prog3.txt creado en rama1
 * luego lo crearé en rama 2 a ver qué ocurre al mergearlos
+=======
+linea 1.
+linea 2.
+linea 3.
+--lo anterior, creado en rama1.
+>>>>>>> 0e8af915d7d584bf90f0a89c433a5aafa527d87c
